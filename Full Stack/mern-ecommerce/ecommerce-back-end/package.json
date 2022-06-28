@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce-back-end",
+  "version": "1.0.0",
+  "description": "This is backend of ecommerce flipcart clone project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecommmerce",
+    "mern",
+    "project",
+    "backend",
+    "backend",
+    "api",
+    "api"
+  ],
+  "author": "Jobayer Akanda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "mongoose": "^6.4.0"
+  }
+}
